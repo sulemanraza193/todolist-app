@@ -52,49 +52,7 @@ All tasks are automatically saved in the browser using Local Storage.
 
 ---
 
-## ▶️ Run Project
-
-1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/todo-list-app.git
 ```
 
-2️⃣ Open project folder
 
-```bash
-cd todo-list-app
-```
 
-3️⃣ Open `index.html` in browser
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
----
-
-## 🌟 Future Improvements
-
-- Edit tasks
-- Task categories
-- Dark mode
-- Due dates
-- Drag & drop sorting
-
----
-
-## 👨‍💻 Author
-
-Salman Raza
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
